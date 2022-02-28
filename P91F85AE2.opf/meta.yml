@@ -1,0 +1,16 @@
+id: P91F85AE2
+initial_creation_type: input
+source_metadata:
+  title: Geshe Langri Thangpa Series
+  language: en
+  description: 'Texts by the famous Kadampa geshe Langri Thangpa Dorje Senge (glang
+    ri thang pa rdo rje seng ge, 1054–1123):'
+  volume:
+    cca94edce2104bd49f554f5bdea301a2:
+      title: Eight Verses of Training the Mind
+      parent: Mind Training
+    6e48c561f0de42f5ac1afd4fa860ecb0:
+      title: The Sayings of Geshe Langri Tangpa
+      parent: Mind Training
+created_at: '2022-02-28T23:23:30.192094'
+last_modified_at: '2022-02-28T23:23:30.192100'
